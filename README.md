@@ -1,16 +1,17 @@
-### Hi there 👋
+# 한수호 Suho Han  
 
-<!--
-**unbroken-KR/unbroken-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🏫 숭실대학교 전자정보공학부 19학번  
+💂 ROKA 21.12.28 - 22.06.27  
+🖥️ (어느 정도) Python, C++... (뭔지 알기는 하는) HTML, CSS, JavaScript, Markdown
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🏫 Department of Electronic Engineering, Soongsil University  
+💂 ROKA 21.12.28 - 22.06.27  
+🖥️ (Average) Python, C++... (Little) HTML, CSS, JavaScript, Markdown
+
+#### Solving in [BaekJoon Online Judge](https://www.acmicpc.net/) [Programmers](https://www.programmers.co.kr)
+
+
+###### Personal Link: [BaekJoon Online Judge](https://www.acmicpc.net/user/hansuho36eie) [Instagram](https://www.instagram.com/suho_hn)
