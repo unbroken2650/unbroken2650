@@ -15,7 +15,4 @@
 #### Solving in [BaekJoon Online Judge](https://www.acmicpc.net/) [Programmers](https://www.programmers.co.kr)
 
 
-###### Personal Link: [BaekJoon Online Judge](https://www.acmicpc.net/user/hansuho36eie) [Instagram](https://www.instagram.com/suho_hn)
-
-
-[![unbroken-kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=unbroken2650)](https://github.com/anuraghazra/github-readme-stats)
+###### Personal Link: [BaekJoon Online Judge](https://www.acmicpc.net/user/hansuho36eie) / [Instagram](https://www.instagram.com/suho_hn) / [Notion](https://unbroken2650.notion.site/Python-Baekjoon-862515fd399443398bdc37cc810ea121)
