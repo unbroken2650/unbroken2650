@@ -12,7 +12,8 @@
 🖥️ (Average) Python, C++... (Little) HTML, CSS, JavaScript, Markdown
 
 
-#### Solving in [BaekJoon Online Judge](https://www.acmicpc.net/) [Programmers](https://www.programmers.co.kr)
+### Problem Solving in [BaekJoon Online Judge](https://www.acmicpc.net/) [Programmers](https://www.programmers.co.kr)
+### Working on [Army Calculator](https://github.com/unbroken2650/army-calculator)
 
 
 ###### Personal Link: [BaekJoon Online Judge](https://www.acmicpc.net/user/hansuho36eie) / [Instagram](https://www.instagram.com/suho_hn) / [Notion](https://unbroken2650.notion.site/Python-Baekjoon-862515fd399443398bdc37cc810ea121)
