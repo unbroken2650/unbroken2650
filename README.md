@@ -11,7 +11,8 @@
 💂 Army 21.12.28 - 22.06.27  
 🖥️ (Average) Python, C++... (Little) HTML, CSS, JavaScript, Markdown
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hansuho36eie)](https://solved.ac/profile/hansuho36eie)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hansuho36eie)](https://solved.ac/hansuho36eie)
 
 ### Problem Solving in [BaekJoon Online Judge](https://www.acmicpc.net/) [Programmers](https://www.programmers.co.kr)
 ### Working on [Army Calculator](https://github.com/unbroken2650/army-calculator)
