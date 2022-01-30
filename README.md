@@ -1,4 +1,5 @@
 # UnbroKen  
+<div style="text-align:center;">
 <p> School : 숭실대학교 전자정보공학부 19학번 / Department of Electronic Engineering, Soongsil University </p>
 <p> Current Status : 군복무중(In Army).. 21.12.28 - 22.06.27  </p>
 <p> Tech Stack(~October 2021) : <br>
@@ -30,5 +31,6 @@
 #
 
 ### Working on [amuguna1mandeum/lockerweb](https://github.com/amuguna1mandeum/lockerweb)
+     </div>
 
 ###### <p>Personal Link: [Velog](https://velog.io/@unbroken2650) / [<img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&labelColor=white"/>](https://blog.naver.com/unbroken2650) / [BaekJoon Online Judge](https://www.acmicpc.net/user/hansuho36eie) / [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&labelColor=lightgrey"/>](https://unbroken2650.notion.site/Python-Baekjoon-862515fd399443398bdc37cc810ea121) / <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hansuho36eie"/></p>
