@@ -1,5 +1,5 @@
 # UnbroKen  
-<p align="center"> School : 숭실대학교 전자정보공학부 19학번 / Department of Electronic Engineering, Soongsil University </p>
+<p align="center"> School : 숭실대학교 전자정보공학부 19학번 / <br> Department of Electronic Engineering , Soongsil University (2019 ~ ) </p>
 <p align="center"> Current Status : 군복무중(In Army).. 21.12.28 - 22.06.27  </p>
 <p align="center"> Tech Stack(~January 2022) : <br><br>
 Front-end : 
