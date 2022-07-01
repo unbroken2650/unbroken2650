@@ -26,9 +26,8 @@ Front-end :
 </p>
 
 #  
-<h3 align="center"> Working on <a href="https://www.figma.com/file/J9hKfThkdaHz6lrX4wo6CX/Portfolio?node-id=0%3A1">Personal Portfolio</a> </h3>
-<h3 align="center"> Worked at : </h3>
-<div align="center"> <a href="https://github.com/amuguna1mandeum/lockerweb"><img src="https://widget.realdeveloper.pro/api/card?user=unbroken2650&repo=lockerweb"/></a></div>
+<h3 align="center"> Working on <a href="https://portfolio-unbroken2650.vercel.app/">Personal Portfolio</a>, <a href="https://github.com/TEAM-MAT/gomin-sageori">gomin-sageori</a> </h3>
+<h3 align="center"> Working at : <a href="https://github.com/TEAM-MAT">Team MAT</a></h3>
 
 <h6 align="center">
      <p>Personal Link: </p>
