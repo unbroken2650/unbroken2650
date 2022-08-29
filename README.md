@@ -11,15 +11,14 @@ Front-end :
 <img src="https://img.shields.io/badge/Emotion-c468b7?style=flat-square&logo=&logoColor="/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <br> Learning :
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Svelte-ffffff?style=flat-square&logo=Svelte&logoColor=#FF3E00"/>
-<!--https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=Python&logoColor=white-->
-<!--https://img.shields.io/badge/React Native-1F232A?style=flat-square&logo=React&logoColor=#61DBFB-->
-<!--https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white-->
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<!--<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>-->
+<!--<img src="https://img.shields.io/badge/Svelte-ffffff?style=flat-square&logo=Svelte&logoColor=#FF3E00"/>-->
+
 </p>
 
 #  
-<h3 align="center"> Working on <a href="https://www.github.com/unbroken2650/Portfolio">Personal Portfolio</a>, <a href="https://github.com/TEAM-MAT/gomin-sageori">gomin-sageori</a> </h3>
+<h3 align="center"> Working on <a href="https://www.github.com/unbroken2650/Portfolio">Personal Portfolio</a>
 <h3 align="center"> Working at : <a href="https://github.com/TEAM-MAT">Team MAT</a></h3>
 
 <h6 align="center">
