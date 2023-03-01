@@ -1,11 +1,11 @@
 # UnbroKen  
 <p align="center"> School : 숭실대학교 전자정보공학부 19학번 / <br> Department of Electronic Engineering , Soongsil University (2019 ~ ) </p>
-<p align="center"> Current Status : 2-2학기  </p>
-<p align="center"> Tech Stack(~August 2022) : <br><br>
+<p align="center"> Current Status : 3-1학기  </p>
+<p align="center"> Tech Stack(~March 2023) : <br><br>
 Front-end : 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-1F232A?style=flat-square&logo=React&logoColor=#61DBFB"/>
-<img src="https://img.shields.io/badge/Zustand-603a3f?style=flat-square&logo=&logoColor="/>
+<!-- <img src="https://img.shields.io/badge/Zustand-603a3f?style=flat-square&logo=&logoColor="/> -->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Emotion-c468b7?style=flat-square&logo=&logoColor="/> 
