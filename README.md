@@ -22,10 +22,6 @@ Front-end :
 <h3 align="center"> Working at <a href="https://github.com/TEAM-MAT">Team MAT</a></h3>
 
 <h6 align="center">
-     <p>Personal Link: </p>
-     <a href="https://www.github.com/unbroken2650/Portfolio">Portfolio</a>
-     <p><a href="https://velog.io/@unbroken2650">Velog</a></p>
-     <p><a href="https://blog.naver.com/unbroken2650">Naver Blog</a></p>
      <p><a href="https://www.acmicpc.net/user/hansuho36eie">BaekJoon Online Judge</a></p>
      <p><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hansuho36eie"/></p>
 </h6>
