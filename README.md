@@ -18,10 +18,15 @@ Front-end :
 </p>
 
 #  
-<h3 align="center"> Now Studying... Machine Learning!
-<h3 align="center"> Working at <a href="https://github.com/TEAM-MAT">Team MAT</a></h3>
 
+<h3 align="center"> ◆</h3>
+<h3 align="center"> Now Studying... Machine Learning!</h3>
+<h4 align="center">Here is the <a href="https://github.com/users/unbroken2650/projects/2">progress.</a></h4>
+<h3 align="center"> ◆</h3>
+<h3 align="center"> Working at <a href="https://github.com/TEAM-MAT">Team MAT</a></h3>
+<h3 align="center"> ◆</h3>
 <h6 align="center">
      <p><a href="https://www.acmicpc.net/user/hansuho36eie">BaekJoon Online Judge</a></p>
      <p><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hansuho36eie"/></p>
 </h6>
+<h3 align="center"> ◆</h3>
