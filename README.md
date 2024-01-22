@@ -1,7 +1,7 @@
 # UnbroKen  
 <p align="center"> 🏫 Department of Electronic Engineering, Soongsil University (2019 ~ ) (Estimated Graduation : Feb 2025) </p>
 <p align="center"> Current Status : 5 semesters done </p>
-<p align="center"> Tech Stack(~July 2023) : <br><br>
+<p align="center"> Tech Stack(~2024) : <br><br>
 Front-end : 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-1F232A?style=flat-square&logo=React&logoColor=#61DBFB"/>
