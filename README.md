@@ -30,7 +30,7 @@
 
 ### Now working on
 
-###### - [AI_Convergence_Reservation_Program](https://github.com/UNITY_SSU/AI_Convergence_Reservation_Program)
+###### - [AI_Convergence_Reservation_Program](https://github.com/UNITY-SSU/AI_Convergence_Reservation_Program)
 ###### - [ssu-exchange](https://github.com/unbroken2650/ssu-exchange)
 
 ### Worked at [Team MAT](https://github.com/TEAM-MAT)
