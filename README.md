@@ -1,4 +1,4 @@
-# UnbroKen (한수호, Suho Han)
+# 한수호 (Suho Han)
 
 ##### 🏫 Undergraduate, Department of Electronic and Information Engineering, [Soongsil University](https://ssu.ac.kr/) [EN](https://webtrans.llsollu.com:40443/ezweb/translate?source=KO&target=EN&profileId=0012d8d1-14e0-4237-a6a5-a68bc015f94d&url=https%3A%2F%2Fssu.ac.kr%2Fmain_renewal%2F)
 
