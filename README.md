@@ -6,6 +6,8 @@
 
 🏫 Undergraduate, Department of Electronic and Information Engineering, [Soongsil University](https://ssu.ac.kr/) 
 (Mar 2019~Feb 2025)
+
+
 🏫 Exchange Student, Department of Electrical and Computer Engineering, [Concordia University](https://www.concordia.ca/), Montreal, QC, Canada
 (Sep 2023 ~ Dec 2023)
 
